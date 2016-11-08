@@ -1,6 +1,6 @@
 # door 7  
 You have entered the door and you see 3 other doors 
-#### [GREEN](../door_7/README.md)
-#### [BLUE](../door_7/README.md)
-#### [RED](../door_7/README.md)
+#### [GREEN](../finally/README.md)
+#### [BLUE](../finally/README.md)
+#### [RED](../finally/README.md)
 which one do you go in?
